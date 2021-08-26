@@ -1,0 +1,24 @@
+{
+  "name": "discord-v13-screenshot",
+  "version": "1.0.0",
+  "description": "Discord-V13 Take screenshots with your bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotTimIsReal/discord-v13-screenshot.git"
+  },
+  "keywords": [
+    "screenshot",
+    "discord.js",
+    "discord"
+  ],
+  "author": "NotTimIsReal",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/NotTimIsReal/discord-v13-screenshot/issues"
+  },
+  "homepage": "https://github.com/NotTimIsReal/discord-v13-screenshot#readme"
+}
