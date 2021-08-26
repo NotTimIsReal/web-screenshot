@@ -1,7 +1,6 @@
 
 const puppeteer=require( 'puppeteer')
 const fs=require('fs');
-export namespace discord_screenshot{
      export class screenshot{
         /**
          *  @param deleteImage If set true then after 1 second the image will be deleted if set false the image will not be deleted
@@ -31,5 +30,5 @@ export namespace discord_screenshot{
         }
 
 
-    }}
+    }
 

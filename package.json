@@ -1,12 +1,12 @@
 {
-  "name": "discord-v13-screenshot",
+  "name": "web-screenshot",
   "version": "1.0.0",
-  "description": "Discord-V13 Take screenshots with your bot",
+  "description": "Web-V13 Take screenshots of websites",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git+https://github.com/NotTimIsReal/discord-v13-screenshot.git",
+  "repository": "git+https://github.com/NotTimIsReal/web-screenshot.git",
   "keywords": [
     "screenshot",
     "discord.js",
@@ -15,9 +15,9 @@
   "author": "NotTimIsReal",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/NotTimIsReal/discord-v13-screenshot/issues"
+    "url": "https://github.com/NotTimIsReal/web-screenshot/issues"
   },
-  "homepage": "https://github.com/NotTimIsReal/discord-v13-screenshot#readme",
+  "homepage": "https://github.com/NotTimIsReal/web-screenshot#readme",
   "private": false,
   "dependencies": {
     "puppeteer": "^10.2.0"
