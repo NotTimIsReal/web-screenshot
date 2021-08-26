@@ -1,8 +1,9 @@
 {
-  "name": "web-screenshot",
-  "version": "1.0.0",
+  "name": "google-web-screenshot",
+  "version": "1.0.4",
   "description": "Web-V13 Take screenshots of websites",
-  "main": "index.js",
+  "main": "index.ts",
+  "types": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
